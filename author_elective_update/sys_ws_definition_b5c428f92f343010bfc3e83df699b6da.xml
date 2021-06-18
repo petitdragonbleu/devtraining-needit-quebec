@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ws_definition">
+    <sys_ws_definition action="DELETE">
+        <active>true</active>
+        <base_uri>/api/x_58872_needit/needit_api</base_uri>
+        <consumes>application/json,application/xml,text/xml</consumes>
+        <consumes_customized>true</consumes_customized>
+        <default_version>No active default version</default_version>
+        <doc_link/>
+        <enforce_acl>cf9d01d3e73003009d6247e603f6a990</enforce_acl>
+        <is_versioned>false</is_versioned>
+        <name>NeedIt API</name>
+        <namespace>x_58872_needit</namespace>
+        <produces>application/json,application/xml,text/xml</produces>
+        <produces_customized>false</produces_customized>
+        <service_id>needit_api</service_id>
+        <short_description/>
+        <sys_class_name>sys_ws_definition</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-17 19:29:28</sys_created_on>
+        <sys_id>b5c428f92f343010bfc3e83df699b6da</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>NeedIt API</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_ws_definition_b5c428f92f343010bfc3e83df699b6da</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-17 19:32:54</sys_updated_on>
+    </sys_ws_definition>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>c67f027ddbd788d452cec59705961964</instance_id>
+        <instance_name>dev101925</instance_name>
+        <name>sys_ws_definition_b5c428f92f343010bfc3e83df699b6da</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ws_definition"><sys_ws_definition action="INSERT_OR_UPDATE"><active>true</active><base_uri>/api/x_58872_needit/needit_api</base_uri><consumes>application/json,application/xml,text/xml</consumes><consumes_customized>true</consumes_customized><default_version>No active default version</default_version><doc_link/><enforce_acl>cf9d01d3e73003009d6247e603f6a990</enforce_acl><is_versioned>false</is_versioned><name>NeedIt API</name><namespace>x_58872_needit</namespace><produces>application/json,application/xml,text/xml</produces><produces_customized>false</produces_customized><service_id>needit_api</service_id><short_description/><sys_class_name>sys_ws_definition</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-06-17 19:29:28</sys_created_on><sys_id>b5c428f92f343010bfc3e83df699b6da</sys_id><sys_mod_count>1</sys_mod_count><sys_name>NeedIt API</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_ws_definition_b5c428f92f343010bfc3e83df699b6da</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-06-17 19:32:54</sys_updated_on></sys_ws_definition></record_update>]]></payload>
+        <payload_hash>-1025731717</payload_hash>
+        <record_name>NeedIt API</record_name>
+        <reverted_from/>
+        <source>da185db22fa03010bfc3e83df699b608</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-17 19:32:55</sys_created_on>
+        <sys_id>56a5a8f92f343010bfc3e83df699b635</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17a1b764a7c0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-17 19:32:55</sys_updated_on>
+        <type>Scripted REST API</type>
+        <update_guid>1ea5a8f9113430102898193d8c454134</update_guid>
+        <update_guid_history>1ea5a8f9113430102898193d8c454134:-1025731717,f3d4e0f9db343010635a4ea882e759c1:-1351394268</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-18 12:58:39</sys_created_on>
+        <sys_db_object display_value="" name="sys_ws_definition">sys_ws_definition</sys_db_object>
+        <sys_id>0412190002174c8f80799696c7669ca1</sys_id>
+        <sys_metadata>b5c428f92f343010bfc3e83df699b6da</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NeedIt API</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_ws_definition_b5c428f92f343010bfc3e83df699b6da</sys_update_name>
+        <sys_update_version display_value="sys_ws_definition_b5c428f92f343010bfc3e83df699b6da">56a5a8f92f343010bfc3e83df699b635</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-18 12:58:39</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
